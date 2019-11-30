@@ -1,0 +1,14 @@
+<div class="panel">
+    <div class="panel-containerMain">
+        <fa-icon [icon]="faChartBar"></fa-icon>
+    </div>
+    <div class="wrapper-compa">
+        <div *ngFor="let company of companyes">
+            <div class="panel-container pointer" [routerLink]="['/dashboard', company.symbol, company.name]"
+                routerLinkActive="active">
+                <fa-icon routerLinkActive="active-icon" class="user-icons" [icon]="faCircle"></fa-icon>
+                <span class="panel-title"> {{ company.name }} </span>
+            </div>
+        </div>
+    </div>
+</div>

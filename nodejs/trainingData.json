@@ -1,0 +1,50 @@
+[
+  {
+    "phrase": "US stocks are showing signs of life after a bloodbath wiped out the Dow's gains for the year",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "America's factories are getting crushed by Trump's trade war, not the Fed",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "The trade war is doing real damage to the American economy, and it's showing up in manufacturing. Factories in a wide range of businesses, from clothing to machinery are suffering declines in exports.",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "The Value rotation in the U.S. stock market didn’t have staying power in September, according to data from FTSE Russell, though October and onward may be another story",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "U.S. stocks tumbled to the lowest since August after another disappointing report fueled fears that the American economy is slowing. Treasuries rose with gold and the yen on demand for haven assets.",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "London Markets: British pound climbs while FTSE 100 registers moderate gains after Brexit deal",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "U.K. stocks lumbered higher on Monday, catching up to the stellar gains made on Wall Street in the previous session.",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "Next sales rise 2% as retailer backs 2020 guidance",
+    "result": {
+      "good": 1
+    }
+  }
+]

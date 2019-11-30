@@ -1,0 +1,72 @@
+<div class="dashboard h-100 w-100">
+  <div *ngIf="dataIsLoaded; else elseBlock" class="row">
+    <div class="col-6">
+      <div class="row">
+        <div class="predictedStock">
+          <h1 class="mt-2">Stock value, the last 100 days in GBP</h1>
+          <div class="stockChart">
+            <canvas baseChart width="700" height="250" [datasets]="lineChartData" [labels]="lineChartLabels"
+              [options]="lineChartOptions" [colors]="lineChartColors" [legend]="lineChartLegend"
+              [chartType]="lineChartType" [plugins]="lineChartPlugins">
+            </canvas>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="predictedArticles">
+          <h1 class="mt-2">Influence of recent articles</h1>
+          <div class="stockChart">
+            <canvas baseChart width="700" height="250" [datasets]="lineChartDataArticles"
+              [labels]="lineChartLabelsArticles" [options]="lineChartOptions" [colors]="lineChartColors"
+              [legend]="lineChartLegend" [chartType]="lineChartType" [plugins]="lineChartPlugins">
+            </canvas>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-6">
+      <h1 class="articol-titlu">Articles</h1>
+      <div class="wrapper-articles">
+        <div *ngFor="let article of articles">
+          <div class="article">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">{{ article.title }}</h5>
+                <h6 class="card-subtitle mb-2 text-muted">{{ article.publishedAt }}</h6>
+                <p class="card-text">{{ article.description }}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <ng-template #elseBlock>
+    <div class="dashboard-loading h-100 w-100">
+      <div class="d-flex flex-column align-items-center">
+        <h1 class="loading-title">Please wait, data is preparing...</h1>
+        <div>
+          <div class="loader">
+            <svg viewBox="0 0 80 80">
+              <circle id="test" cx="40" cy="40" r="32"></circle>
+            </svg>
+          </div>
+
+          <div class="loader triangle">
+            <svg viewBox="0 0 86 80">
+              <polygon points="43 8 79 72 7 72"></polygon>
+            </svg>
+          </div>
+
+          <div class="loader">
+            <svg viewBox="0 0 80 80">
+              <rect x="8" y="8" width="64" height="64"></rect>
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </ng-template>
+</div>

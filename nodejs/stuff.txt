@@ -1,0 +1,1084 @@
+PO6PLN33J06TFQJM
+
+[
+  {
+    "phrase": "abl",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "abund",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "aboveboard",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "accept",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "accur",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "achiev",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "afford",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "adapt",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "ambiti",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "calcul",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "captiv",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "care",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "casual",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "calm",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "capabl",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "certain",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "charm",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "cheer",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "cheeri",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "cherish",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "chic",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "civil",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "clean",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "comfort",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "cooper",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "cordial",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "crafti",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "cute",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "clever",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "natur",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "naturalist",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "neutral",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "newborn",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "need",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "neat",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "necessari",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "new",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "nifti",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "nice",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "nontox",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "notabl",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "nourish",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "novel",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "nurtur",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tact",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "talent",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tasti",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tax",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "teachabl",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "thank",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "thought",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "through",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "thrifti",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "thrill",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "thrive",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "timeless",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "toler",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "top-notch",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "touch",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "twinkli",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "terrif",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "truth",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "trust",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "trustworthi",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tremend",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "treasur",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tranquil",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tidi",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tantal",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tone",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tricki",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "tast",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "triumphant",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "perfect",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "reason",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "luxuri",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "kind-heart",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "justifi",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "wonder",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "heroic",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "glamor",
+    "result": {
+      "good": 1
+    }
+  },
+  {
+    "phrase": "aggress",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "aloof",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "arrog",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "belliger",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "big-head",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "bitchi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "boast",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "bone-idl",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "bore",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "bossi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "callou",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "cantanker",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "careless",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "changeabl",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "cling",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "compuls",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "conserv",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "cowardli",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "cruel",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "cun",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "cynic",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "deceit",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "detach",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "dishonest",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "dogmat",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "domin",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "finicki",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "flirtati",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "foolish",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "foolhardi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "fussi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "greedi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "grumpi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "gullibl",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "harsh",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "impati",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "impolit",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "impuls",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "inconsider",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "inconsist",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "indecis",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "indiscreet",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "inflex",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "interf",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "intoler",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "irrespons",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "jealou",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "lazi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "machiavellian",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "materialist",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "mean",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "miserli",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "moodi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "narrow-mind",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "nasti",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "naughti",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "nervou",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "obsess",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "obstin",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "overcrit",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "overemot",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "parsimoni",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "patron",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "pervers",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "pessimist",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "pompou",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "possess",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "pusillanim",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "quarrelsom",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "quick-temp",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "resent",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "rude",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "ruthless",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "sarcast",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "secret",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "selfish",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "self-centr",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "self-indulg",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "silli",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "sneaki",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "stingi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "stubborn",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "stupid",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "superfici",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "tactless",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "timid",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "touchi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "thoughtless",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "trucul",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "unkind",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "unpredict",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "unreli",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "untidi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "untrustworthi",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "vagu",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "vain",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "veng",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "vulgar",
+    "result": {
+      "bad": 1
+    }
+  },
+  {
+    "phrase": "weak-wil",
+    "result": {
+      "bad": 1
+    }
+  }
+]

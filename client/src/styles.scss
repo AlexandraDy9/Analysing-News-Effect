@@ -1,0 +1,25 @@
+/* You can add global styles to this file, and also import other style files */
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+
+html,body {
+    height: 100%;
+    background-color: #eff3f742;
+    font-weight: 300;
+    font-size: 14px;
+    color: #4a4a4a;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+:focus {
+    outline: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+        

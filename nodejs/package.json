@@ -1,0 +1,22 @@
+{
+  "name": "london-stock",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "brain.js": "^2.0.0-alpha.9",
+    "express": "^4.17.1",
+    "ml-regression": "^5.0.0",
+    "natural": "^0.6.3",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {},
+  "description": ""
+}
